@@ -1,0 +1,7 @@
+Origin: Duy Cydia  
+Label: Nguyen Duy
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm, iphoneos-arm64 , iphoneos-armv7, iphoneos-armv7s
+Description: Mô tả ngắn gọn về kho lưu trữ con cặc
